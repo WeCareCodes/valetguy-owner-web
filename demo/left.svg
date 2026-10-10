@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="800" height="600">
+<rect width="400" height="300" fill="#64748b"/>
+<rect y="210" width="400" height="90" fill="#475569"/>
+<path d="M70 200 Q80 140 140 130 L170 95 Q200 85 250 95 L290 130 Q340 140 340 200 Z" fill="#8a5cd6"/>
+<rect x="60" y="185" width="290" height="35" rx="12" fill="#8a5cd6"/>
+<path d="M180 102 L245 102 L275 130 L160 130 Z" fill="#cbd5e1" opacity=".85"/>
+<circle cx="120" cy="222" r="24" fill="#111827"/><circle cx="120" cy="222" r="10" fill="#9ca3af"/>
+<circle cx="295" cy="222" r="24" fill="#111827"/><circle cx="295" cy="222" r="10" fill="#9ca3af"/>
+
+<text x="200" y="40" font-family="system-ui, sans-serif" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">DEMO · LEFT SIDE</text>
+</svg>
